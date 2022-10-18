@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+img{
+    place-items: center;
+    width: 900px;
+    height: 600px;
+    background-color:aquamarine;
+}
